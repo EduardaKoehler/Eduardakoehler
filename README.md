@@ -1,7 +1,7 @@
-### Hello World 👋
 
-
-
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=blue&size=36&center=true&vCenter=true&width=500&lines=Hello, My name is Eduarda!" alt="Hello, My name is Eduarda"></a>
+</div>
 
 <div align="center">  
 <h1> About Me</h1>
