@@ -8,7 +8,7 @@
 <a>• 17 years </a><br>
 <a>• Digital Designer</a><br>
 <a>• Beginner programmer</a><br> 
-<a>• Attending Systems Development(3/3) 💻</a>
+<a>• Attending Systems Development (3/3) 💻</a>
 
   
 ## ✏️ Learning
