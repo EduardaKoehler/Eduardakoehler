@@ -5,7 +5,7 @@
 
 <div align="center">  
 <h1> About Me</h1>
-<a>• 17 years </a><br>
+<a>• 18 years </a><br>
 <a>• Digital Designer</a><br>
 <a>• Beginner programmer</a><br> 
 <a>• Attending Systems Development (3/3) 💻</a>
